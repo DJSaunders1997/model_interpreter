@@ -69,7 +69,16 @@ The easiest way to get `model_interpreter` is directly from [pypi](https://pypi.
 
 To help get started there are example notebooks in the [examples](https://github.com/lvgig/model_interpreter/tree/main/examples) folder in the repo that show how to use each transformer.
 
-To open the example notebooks in [binder](https://mybinder.org/) click [here](https://mybinder.org/v2/gh/lvgig/model_interpreter/HEAD?labpath=examples) or click on the `launch binder` shield above and then click on the directory button in the side bar to the left to navigate to the specific notebook.
+### Launch in GitHub Codespaces
+
+[![Open in GitHub Codespaces](todo)
+
+To open the example notebooks in GitHub Codespaces, click the badge above or follow these steps:
+
+1. Click on the `Code` button at the top of the repository.
+2. Select `Open with Codespaces`.
+3. Create a new Codespace.
+4. Once the Codespace is ready, navigate to the `examples` directory to access the notebooks.
 
 ## Issues
 

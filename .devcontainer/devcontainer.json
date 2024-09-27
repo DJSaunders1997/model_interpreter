@@ -1,5 +1,14 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
+  "name": "model_interpreter",
+  "image": "mcr.microsoft.com/devcontainers/python:3.9",
+  "features": {},
+  "postCreateCommand": "pip install -r requirements-dev.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+      ]
+    }
   }
 }
